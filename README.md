@@ -1,6 +1,17 @@
-# qdrant-npm
+<div align="center">
+  <a href="https://www.npmjs.com/package/qdrantdb"><img src="https://avatars.githubusercontent.com/u/73504361?s=100"><h1> Qdrant-NPM </h1></a>
+  <h4> NPM package to run a Qdrant DB instance for development without Docker. </h4>
+</div>
+<p align="center">
+  <img src="https://img.shields.io/github/languages/code-size/Anush008/qdrant-npm" alt="GitHub code size in bytes">
+  <img src="https://img.shields.io/github/commit-activity/w/Anush008/qdrant-npm" alt="GitHub commit activity">
+  <a href="https://github.com/open-sauced/browser-extensions/issues">
+    <img src="https://img.shields.io/github/issues/Anush008/qdrant-npm" alt="GitHub issues">
+  </a>
+</p>
 
-qdrantdb-npm is a Node.js helper package that allows you to easily set up and run a Qdrant DB instance for development without Docker. This package streamlines the installation and configuration process, making it convenient to get started with Qdrant DB.
+![qdrant-npm](https://github.com/Anush008/qdrant-npm/assets/46051506/812907e6-0a34-4dfb-ba01-8f7420579083)
+
 
 ## Installation
 

@@ -1,6 +1,6 @@
 {
   "name": "qdrantdb",
-  "version": "1.6.0",
+  "version": "1.7.3",
   "description": "Helper package to spin-up a Qdrant instance quickly",
   "scripts": {
     "postinstall": "node install.js"
